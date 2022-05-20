@@ -1,0 +1,286 @@
+RenderShader :local_822 . {
+	//RenderShader.Surface ShaderPhong :local_854;
+	RenderShader.Surface ShaderPhong :local_902;
+	Object.Name "body_leg_lower_R_SG";
+};
+ShaderPhong :local_854 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_855;
+};
+RenderMaterial :local_855 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_823 . {
+	//RenderShader.Surface ShaderPhong :local_856;
+	RenderShader.Surface ShaderPhong :local_877;
+	Object.Name "body_leg_lower_L_SG";
+};
+ShaderPhong :local_856 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_857;
+};
+RenderMaterial :local_857 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_824 . {
+	RenderShader.Surface ShaderPhong :local_858;
+	Object.Name "body_main_lower_SG";
+};
+ShaderPhong :local_858 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_859;
+};
+RenderMaterial :local_859 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_825 . {
+	//RenderShader.Surface ShaderPhong :local_860;
+	RenderShader.Surface ShaderPhong :local_897;	
+	Object.Name "body_arm_lower_R_SG";
+};
+ShaderPhong :local_860 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_861;
+};
+RenderMaterial :local_861 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_826 . {
+	//RenderShader.Surface ShaderPhong :local_862;
+	RenderShader.Surface ShaderPhong :local_882;
+	Object.Name "body_arm_lower_L_SG";
+};
+ShaderPhong :local_862 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_863;
+};
+RenderMaterial :local_863 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_827 . {
+	RenderShader.Surface ShaderPhong :local_864;
+	Object.Name "body_fingernails_R_SG";
+};
+ShaderPhong :local_864 . {
+	ShaderPhong.Color ShaderTexture :local_865;
+	ShaderPhong.Material RenderMaterial :local_866;
+};
+ShaderTexture :local_865 . {
+	ShaderTexture.Texture Texture2D :local_867;
+	Object.Name "body_fingernails_texture01Shader";
+};
+Texture2D :local_867 . {
+	Texture.FileObject FileObject :local_868;
+	Texture.DefaultColor Vector4f( 0.7509999871, 0.02928899787, 0, 1 );
+	Object.Name "body_fingernails_texture01";
+};
+FileObject :local_868 FileObject.FileName "Shared/Body/fingernailbase01";
+RenderMaterial :local_866 RenderMaterial.SpecularColor Vector3f( 0.5, 0.5, 0.5 );
+RenderShader :local_828 . {
+	//RenderShader.Surface ShaderPhong :local_869;
+	RenderShader.Surface ShaderPhong :local_897;	
+	Object.Name "body_arm_upper_R_SG";
+};
+ShaderPhong :local_869 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_870;
+};
+RenderMaterial :local_870 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_829 . {
+	//RenderShader.Surface ShaderPhong :local_871;
+	RenderShader.Surface ShaderPhong :local_882;
+	Object.Name "body_arm_upper_L_SG";
+};
+ShaderPhong :local_871 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_872;
+};
+RenderMaterial :local_872 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_830 . {
+	//RenderShader.Surface ShaderPhong :local_873;
+	RenderShader.Surface ShaderPhong :local_902;
+	Object.Name "body_leg_upper_R_SG";
+};
+ShaderPhong :local_873 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_874;
+};
+RenderMaterial :local_874 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_831 . {
+	//RenderShader.Surface ShaderPhong :local_875;
+	RenderShader.Surface ShaderPhong :local_877;
+	Object.Name "body_leg_upper_L_SG";
+};
+ShaderPhong :local_875 . {
+	ShaderPhong.Color ShaderTexture :local_618;
+	ShaderPhong.Material RenderMaterial :local_876;
+};
+RenderMaterial :local_876 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_832 . {
+	RenderShader.Surface ShaderPhong :local_877;
+	Object.Name "body_foot_L_SG";
+};
+ShaderPhong :local_877 . {
+	ShaderPhong.Color ShaderTexture :local_878;
+	ShaderPhong.Material RenderMaterial :local_879;
+};
+ShaderTexture :local_878 . {
+	ShaderTexture.Texture Texture2D :local_880;
+	Object.Name "body_foot_texture01Shader";
+};
+Texture2D :local_880 . {
+	Texture.FileObject FileObject :local_881;
+	Texture.DefaultColor Vector4f( 0.8500000238, 0.6516667008, 0.5525000095, 1 );
+	Object.Name "body_foot_texture01";
+};
+FileObject :local_881 FileObject.FileName "Shared/Body/footbase01";
+RenderMaterial :local_879 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_833 . {
+	RenderShader.Surface ShaderPhong :local_882;
+	Object.Name "body_hand01_L_SG";
+};
+ShaderPhong :local_882 . {
+	ShaderPhong.Color ShaderTexture :local_883;
+	ShaderPhong.Material RenderMaterial :local_884;
+};
+ShaderTexture :local_883 . {
+	ShaderTexture.Texture Texture2D :local_885;
+	Object.Name "body_hand_L_texture01Shader";
+};
+Texture2D :local_885 . {
+	Texture.FileObject FileObject :local_886;
+	Object.Name "body_hand_L_texture01";
+};
+FileObject :local_886 FileObject.FileName "Shared/Body/handbase01";
+RenderMaterial :local_884 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_834 . {
+	RenderShader.Surface ShaderPhong :local_887;
+	Object.Name "body_genital01_SG";
+};
+ShaderPhong :local_887 . {
+	ShaderPhong.Color ShaderTexture :local_888;
+	ShaderPhong.Material RenderMaterial :local_889;
+};
+ShaderTexture :local_888 . {
+	ShaderTexture.Texture Texture2D :local_890;
+	Object.Name "body_genital_texture01Shader";
+};
+Texture2D :local_890 . {
+	Texture.FileObject FileObject :local_891;
+	Texture.DefaultColor Vector4f( 0.8500000238, 0.6516667008, 0.5525000095, 1 );
+	Object.Name "body_genital_texture01";
+};
+FileObject :local_891 FileObject.FileName "Shared/Body/genitalbase01";
+RenderMaterial :local_889 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_835 . {
+	RenderShader.Surface ShaderPhong :local_892;
+	Object.Name "body_head01_SG";
+};
+ShaderPhong :local_892 . {
+	ShaderPhong.Color ShaderTexture :local_893;
+	ShaderPhong.Material RenderMaterial :local_894;
+};
+ShaderTexture :local_893 . {
+	ShaderTexture.Texture Texture2D :local_895;
+	Object.Name "body_head_texture01Shader";
+};
+Texture2D :local_895 . {
+	Texture.FileObject FileObject :local_896;
+	Texture.DefaultColor Vector4f( 0.8500000238, 0.6516667008, 0.5525000095, 1 );
+	Object.Name "body_head_texture01";
+};
+FileObject :local_896 FileObject.FileName "Shared/Body/headbase01";
+RenderMaterial :local_894 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_836 . {
+	RenderShader.Surface ShaderPhong :local_897;
+	Object.Name "body_hand01_R_SG";
+};
+ShaderPhong :local_897 . {
+	ShaderPhong.Color ShaderTexture :local_898;
+	ShaderPhong.Material RenderMaterial :local_899;
+};
+ShaderTexture :local_898 . {
+	ShaderTexture.Texture Texture2D :local_900;
+	Object.Name "body_hand_R_texture01Shader";
+};
+Texture2D :local_900 . {
+	Texture.FileObject FileObject :local_901;
+	Texture.DefaultColor Vector4f( 0.8500000238, 0.6516667008, 0.5525000095, 1 );
+	Object.Name "body_hand_R_texture01";
+};
+FileObject :local_901 FileObject.FileName "Shared/Body/handbase01";
+RenderMaterial :local_899 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_837 . {
+	RenderShader.Surface ShaderPhong :local_902;
+	Object.Name "body_foot_R_SG";
+};
+ShaderPhong :local_902 . {
+	ShaderPhong.Color ShaderTexture :local_878;
+	ShaderPhong.Material RenderMaterial :local_903;
+};
+RenderMaterial :local_903 . {
+	RenderMaterial.SpecularColor Vector3f( 0.150000006, 0.150000006, 0.150000006 );
+	RenderMaterial.Shininess F32(10);
+};
+RenderShader :local_838 . {
+	RenderShader.Surface ShaderPhong :local_904;
+	Object.Name "body_fingernails_L_SG";
+};
+ShaderPhong :local_904 . {
+	ShaderPhong.Color ShaderTexture :local_865;
+	ShaderPhong.Material RenderMaterial :local_905;
+};
+RenderMaterial :local_905 RenderMaterial.SpecularColor Vector3f( 0.5, 0.5, 0.5 );
+RenderShader :local_839 . {
+	RenderShader.Surface ShaderPhong :local_906;
+	RenderShader.MultiDrawLayer I32(37);
+	RenderShader.DepthWriteEnable False;
+	Object.Name "body_eyelash01_SG";
+};
+ShaderPhong :local_906 . {
+	ShaderPhong.Color ShaderTexture :local_907;
+	ShaderPhong.Material RenderMaterial :local_908;
+};
+ShaderTexture :local_907 . {
+	ShaderTexture.Texture Texture2D :local_909;
+	Object.Name "body_eyelash_texture01Shader";
+};
+Texture2D :local_909 . {
+	Texture.FileObject FileObject :local_910;
+	Texture.DefaultColor Vector4f( 0, 0, 0, 1 );
+	Object.Name "body_eyelash_texture01";
+};
+FileObject :local_910 FileObject.FileName "Shared/Body/eyelashes01";
+RenderMaterial :local_908 RenderMaterial.SpecularColor Vector3f( 0.5, 0.5, 0.5 );

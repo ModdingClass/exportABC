@@ -1,0 +1,247 @@
+TSkinPolygonGeometry :local_custommouth_TSkinPolygonGeometry . {
+	TGeometry.Shader RenderShader :local_custommouth_RS;
+	TNode.SNode SSkinPolygonGeometry :local_custommouth_SSkinPolygonGeometry;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_mouth01_SG";
+};
+SSkinPolygonGeometry :local_custommouth_SSkinPolygonGeometry . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_mouth01_SG";
+};
+
+
+
+
+
+
+TSkinPolygonGeometry :local_911 . {
+	TGeometry.Shader RenderShader :local_822;
+	TNode.SNode SSkinPolygonGeometry :local_912;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_leg_lower_R_SG";
+};
+SSkinPolygonGeometry :local_912 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_leg_lower_R_SG";
+};
+TSkinPolygonGeometry :local_913 . {
+	TGeometry.Shader RenderShader :local_823;
+	TNode.SNode SSkinPolygonGeometry :local_914;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_leg_lower_L_SG";
+};
+SSkinPolygonGeometry :local_914 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_leg_lower_L_SG";
+};
+TSkinPolygonGeometry :local_915 . {
+	TGeometry.Shader RenderShader :local_824;
+	TNode.SNode SSkinPolygonGeometry :local_916;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_main_lower_SG";
+};
+SSkinPolygonGeometry :local_916 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_main_lower_SG";
+};
+TSkinPolygonGeometry :local_917 . {
+	TGeometry.Shader RenderShader :local_825;
+	TNode.SNode SSkinPolygonGeometry :local_918;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_arm_lower_R_SG";
+};
+SSkinPolygonGeometry :local_918 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_arm_lower_R_SG";
+};
+TSkinPolygonGeometry :local_919 . {
+	TGeometry.Shader RenderShader :local_826;
+	TNode.SNode SSkinPolygonGeometry :local_920;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_arm_lower_L_SG";
+};
+SSkinPolygonGeometry :local_920 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_arm_lower_L_SG";
+};
+TSkinPolygonGeometry :local_921 . {
+	TGeometry.Shader RenderShader :local_827;
+	TNode.SNode SSkinPolygonGeometry :local_922;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_fingernails_R_SG";
+};
+SSkinPolygonGeometry :local_922 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_fingernails_R_SG";
+};
+TSkinPolygonGeometry :local_923 . {
+	TGeometry.Shader RenderShader :local_828;
+	TNode.SNode SSkinPolygonGeometry :local_924;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_arm_upper_R_SG";
+};
+SSkinPolygonGeometry :local_924 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_arm_upper_R_SG";
+};
+TSkinPolygonGeometry :local_925 . {
+	TGeometry.Shader RenderShader :local_829;
+	TNode.SNode SSkinPolygonGeometry :local_926;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_arm_upper_L_SG";
+};
+SSkinPolygonGeometry :local_926 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_arm_upper_L_SG";
+};
+TSkinPolygonGeometry :local_927 . {
+	TGeometry.Shader RenderShader :local_830;
+	TNode.SNode SSkinPolygonGeometry :local_928;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_leg_upper_R_SG";
+};
+SSkinPolygonGeometry :local_928 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_leg_upper_R_SG";
+};
+TSkinPolygonGeometry :local_929 . {
+	TGeometry.Shader RenderShader :local_831;
+	TNode.SNode SSkinPolygonGeometry :local_930;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_leg_upper_L_SG";
+};
+SSkinPolygonGeometry :local_930 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_leg_upper_L_SG";
+};
+TSkinPolygonGeometry :local_931 . {
+	TGeometry.Shader RenderShader :local_832;
+	TNode.SNode SSkinPolygonGeometry :local_932;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_foot_L_SG";
+};
+SSkinPolygonGeometry :local_932 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_foot_L_SG";
+};
+TSkinPolygonGeometry :local_933 . {
+	TGeometry.Shader RenderShader :local_833;
+	TNode.SNode SSkinPolygonGeometry :local_934;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_hand01_L_SG";
+};
+SSkinPolygonGeometry :local_934 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_hand01_L_SG";
+};
+TSkinPolygonGeometry :local_935 . {
+	TGeometry.Shader RenderShader :local_834;
+	TNode.SNode SSkinPolygonGeometry :local_936;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_genital01_SG";
+};
+SSkinPolygonGeometry :local_936 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_genital01_SG";
+};
+TSkinPolygonGeometry :local_937 . {
+	TGeometry.Shader RenderShader :local_835;
+	TNode.SNode SSkinPolygonGeometry :local_938;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_head01_SG";
+};
+SSkinPolygonGeometry :local_938 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_head01_SG";
+};
+TSkinPolygonGeometry :local_939 . {
+	TGeometry.Shader RenderShader :local_242;
+	TNode.SNode SSkinPolygonGeometry :local_940;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_main_upper_SG";
+};
+SSkinPolygonGeometry :local_940 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_main_upper_SG";
+};
+TSkinPolygonGeometry :local_941 . {
+	TGeometry.Shader RenderShader :local_836;
+	TNode.SNode SSkinPolygonGeometry :local_942;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_hand01_R_SG";
+};
+SSkinPolygonGeometry :local_942 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_hand01_R_SG";
+};
+TSkinPolygonGeometry :local_943 . {
+	TGeometry.Shader RenderShader :local_837;
+	TNode.SNode SSkinPolygonGeometry :local_944;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_foot_R_SG";
+};
+SSkinPolygonGeometry :local_944 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_foot_R_SG";
+};
+TSkinPolygonGeometry :local_945 . {
+	TGeometry.Shader RenderShader :local_838;
+	TNode.SNode SSkinPolygonGeometry :local_946;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_fingernails_L_SG";
+};
+SSkinPolygonGeometry :local_946 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_fingernails_L_SG";
+};
+TSkinPolygonGeometry :local_947 . {
+	TGeometry.Shader RenderShader :local_839;
+	TNode.SNode SSkinPolygonGeometry :local_948;
+	TNode.Parent TMeshGroup :local_631;
+	Object.Name "body_subdiv_cageShape__body_eyelash01_SG";
+};
+SSkinPolygonGeometry :local_948 . {
+	SSkinPolygonGeometry.CullStatic True;
+	Object.Name "Sbody_subdiv_cageShape__body_eyelash01_SG";
+};
+
+
+SMeshGroup :local_634 Object.Name "Sbody_subdiv_cageShape";
+STransform :local_630 Object.Name "Sbody_subdiv_cage";
+STransform :local_36 . {
+	STransform.ScalingPivot Vector3f( 0, 0.9063660502, -0.004606001079 );
+	STransform.RotationPivot Vector3f( 0, 0.9063660502, -0.004606001079 );
+	Object.Name "Sbody_mesh_group";
+};
+TTransform :local_949 . {
+	TNode.SNode STransform :local_950;
+	TNode.Parent TTransform :local_3;
+	Object.Name "root_main_group";
+};
+TTransform :local_951 . {
+	TNode.SNode STransform :local_952;
+	TNode.Parent TTransform :local_949;
+	Object.Name "root_pivot_rotation_group";
+};
+TTransform :local_245 . {
+	TNode.SNode STransform :local_953;
+	TNode.Parent TTransform :local_951;
+	Object.Name "root_rotation_group";
+};
+STransform :local_953 . {
+	STransform.ScalingPivot Vector3f( 0, 0.9610000253, -0.01700000092 );
+	STransform.RotationPivot Vector3f( 0, 0.9610000253, -0.01700000092 );
+	Object.Name "Sroot_rotation_group";
+};
+STransform :local_952 . {
+	STransform.ScalingPivot Vector3f( 0, 0.8649885654, -0.0002614672412 );
+	STransform.RotationPivotTranslation Vector3f( 0, -0.9610000253, 0.01700000092 );
+	Object.Name "Sroot_pivot_rotation_group";
+};
+STransform :local_950 . {
+	SSimpleTransform.Translation Vector3f( 0, 0.9610000253, -0.01700000092 );
+	Object.Name "Sroot_main_group";
+};
+STransform :local_4 Object.Name "STRS_group";
+
+

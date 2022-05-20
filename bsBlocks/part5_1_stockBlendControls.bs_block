@@ -1,0 +1,38 @@
+BlendControl :local_840 Object.Name "body_blends_body_eye_L_morph";
+BlendControl :local_841 Object.Name "body_blends_body_eye_R_morph";
+BlendControl :local_842 . {
+	BlendControl.StaticBlend I32(2);
+	Object.Name "body_blends_body_asian01_morph";
+};
+BlendControl :local_843 Object.Name "body_blends_body_vagina_morph";
+BlendControl :local_844 . {
+	BlendControl.StaticBlend I32(2);
+	Object.Name "body_blends_body_asian02_morph";
+};
+BlendControl :local_845 . {
+	BlendControl.StaticBlend I32(2);
+	Object.Name "body_blends_body_jenna01_morph";
+};
+BlendControl :local_846 . {
+	BlendControl.StaticBlend I32(2);
+	Object.Name "body_blends_body_african01_morph";
+};
+BlendControl :local_847 . {
+	BlendControl.StaticBlend I32(2);
+	Object.Name "body_blends_body_capelli01_morph";
+};
+BlendControl :local_848 . {
+	BlendControl.StaticBlend I32(2);
+	Object.Name "body_blends_body_hentai01_morph";
+};
+BlendControl :local_849 Object.Name "body_blends_body_vaginafix_morph";
+BlendControl :local_850 . {
+	BlendControl.StaticBlend I32(2);
+	Object.Name "body_blends_body_atomic01";
+};
+BlendControl :local_851 . {
+	BlendControl.StaticBlend I32(2);
+	Object.Name "body_blends_body_pregnant";
+};
+BlendControl :local_852 Object.Name "body_blends_body_ear01";
+BlendControl :local_853 Object.Name "body_blends_body_ear02";
